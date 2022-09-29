@@ -1,0 +1,7 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: se ingresa al directorio `c:/Users/User/Desktop/trabajos_escuela/Universidad/programacion_1/hw/hw0'
+ 
+make.exe: *** No se especific� ning�n objetivo y no se encontr� ning�n makefile.  Alto.
+
+make.exe: se sale del directorio `c:/Users/User/Desktop/trabajos_escuela/Universidad/programacion_1/hw/hw0'
+ 

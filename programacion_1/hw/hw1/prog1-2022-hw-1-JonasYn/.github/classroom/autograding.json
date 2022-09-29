@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "mayor",
+      "setup": "",
+      "run": "make mayor",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 25
+    },
+    {
+      "name": "reverso",
+      "setup": "",
+      "run": "make reverso",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 25
+    },
+    {
+      "name": "ordenado",
+      "setup": "",
+      "run": "make ordenado",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 35
+    },
+    {
+      "name": "apariciones",
+      "setup": "",
+      "run": "make apariciones",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 15
+    }
+  ]
+}

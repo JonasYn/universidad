@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "testSumarDosNumeros",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "make testSumarDosNumeros",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 30
+    },
+    {
+      "name": "testPositividad",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "make testPositividad",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 30
+    },
+    {
+      "name": "testSumarIntervalo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "make testSumarIntervalo",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 40
+    }
+  ]
+}
