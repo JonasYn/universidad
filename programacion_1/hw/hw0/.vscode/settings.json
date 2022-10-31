@@ -1,7 +1,0 @@
-{
-    "python.testing.pytestArgs": [
-        "prog1-2022-hw-0-JonasYn"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
-}
