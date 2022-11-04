@@ -5,7 +5,7 @@ Importante: No cambiar el nombre del archivo
 
 Completa con tu nombre, apellido y DNI
 Nombre y Apellido:Jonas Ynsaurralde
-DNI: 44.378.573
+DNI: 
 */
 
 /* Programe una funcion que recibe como parametros un vector v 
